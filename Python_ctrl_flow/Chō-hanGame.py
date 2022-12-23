@@ -1,4 +1,4 @@
-# Dice roll with the sum of the both dice
+# Roll dice with the sum of the both dice, It is cho if it even, han if its odd
 
 import random
 
