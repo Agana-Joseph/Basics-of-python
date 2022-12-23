@@ -1,7 +1,7 @@
 # ChoHan game Roll dice with the sum of the both dice, It is cho if it even, han if its odd
 import random
 diceSum = 0
-userGuess = input("What did you think the game will print? [C/H]: ")
+userGuess = input("What did you think the game will print Cho or Han? [C/H]: ")
 
 for i in range(2):  # the both dice
 
