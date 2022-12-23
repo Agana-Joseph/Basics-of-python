@@ -14,10 +14,10 @@ if (diceSum % 2 == 0):
     if (userGuess == "C"):
         print("You win🎉")
     else:
-        print('You lose')
+        print('You lose❗')
 else:
     print("Dice sum is odd.")
     if (userGuess == 'H'):
         print('You win🎉')
     else:
-        print('You lose')
+        print('You lose❗')
