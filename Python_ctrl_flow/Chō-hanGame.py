@@ -12,6 +12,6 @@ for i in range(2):  # the both dice
 print('Dice sum is: ', diceSum)
 
 if (diceSum % 2 == 0):
-    print("Dice sum is even")
+    print("Dice sum is even.")
 else:
-    print("Dice sum is odd")
+    print("Dice sum is odd.")
