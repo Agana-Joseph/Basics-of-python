@@ -1,4 +1,4 @@
-import random
+# Dice roll game, with sum of the both dice
 
 import random
 
