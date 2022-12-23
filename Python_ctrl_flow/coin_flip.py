@@ -1,4 +1,4 @@
-# Dice roll game, with sum of the both dice
+# Coin flip, this print Taill if the coin rolled 0 and print Head if it rolled 1.
 
 import random
 
