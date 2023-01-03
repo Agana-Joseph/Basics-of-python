@@ -10,4 +10,4 @@ while (userGuess != password):
             f"you have been loged out of this system cause you tried {counter} times")
         break
 if (userGuess == password):
-    print(f"Hello user {password} you have successfully loged in")
+    print(f"Hello {password} you have successfully loged in")
