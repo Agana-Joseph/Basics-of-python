@@ -9,6 +9,17 @@ print(f"Hi {name} you're {curent_age} years old")
 for i in range(0, 20, 2):
     print(i)
 
+
+# (1) program that checks if a given number is positive, negative, or zero.
+num = float(input("Enter a number: "))
+if num > 0:
+    print("Positive")
+elif num == 0:
+    print("Zero")
+else:
+    print("Nagative")
+
+
 # (2) program that prompts the user to enter their age. Based on the age, check if they are eligible to vote
 voters = int(input("How old are you?: "))
 if (voters < 18):
@@ -39,4 +50,4 @@ elif (num2 > num1 and num2 > num3):
 elif (num3 > num1 and num3 > num2):
     print(f"The third number ({num3}) Is the gratest")
 else:
-    print(f"{num1}, {num2}, {num3} Are all equall")
+    print(f"The three numbers {num1}, {num2}, {num3} Are all equall")
